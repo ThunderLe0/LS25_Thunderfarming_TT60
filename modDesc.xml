@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="90">
+    <author>Leo</author>
+    <version>1.0.0.0</version>
+    <title>
+		<de>Thunderfarming TT60</de>
+    </title>
+    <description>
+		<de>Traktor Trailer TT60 - Thunderfarming Edition</de>
+    </description>
+    <iconFilename>store/store_TT60.dds</iconFilename>
+    <storeItems>
+        <storeItem xmlFilename="xml/TT60.xml"/>
+    </storeItems>
+	<brands>
+        <brand title="Thunderfarming" image="brand/brand_ThF.dds" name="Thunderfarming"/>
+    </brands>
+	<multiplayer supported="true"/>
+</modDesc>
