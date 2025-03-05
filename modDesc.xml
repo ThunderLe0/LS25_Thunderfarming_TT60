@@ -8,7 +8,7 @@
     <description>
 		<de>Traktor Trailer TT60 - Thunderfarming Edition</de>
     </description>
-    <iconFilename>store/store_TT60.dds</iconFilename>
+    <iconFilename>store/icon_TT60.dds</iconFilename>
     <storeItems>
         <storeItem xmlFilename="xml/TT60.xml" />
     </storeItems>

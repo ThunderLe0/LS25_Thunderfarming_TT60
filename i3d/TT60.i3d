@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="iso-8859-1"?>
-<i3D name="htw65" version="1.6" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://i3d.giants.ch/schema/i3d-1.6.xsd">
+<i3D name="TT60" version="1.6" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://i3d.giants.ch/schema/i3d-1.6.xsd">
     <Files>
         <File fileId="11" filename="$data/shaders/vehicleShader.xml"/>
         <File fileId="16" filename="$data/shared/assets/assetLibraryDecals_diffuse.png"/>
@@ -472,7 +472,7 @@
             <Glossmap fileId="10"/>
         </Material>
     </Materials>
-    <Shapes externalShapesFile="htw65.i3d.shapes"/>
+    <Shapes externalShapesFile="TT60.i3d.shapes"/>
     <Scene>
         <Shape name="htw65_main_component1" shapeId="1" dynamic="true" compound="true" collisionFilterGroup="0x10004" collisionFilterMask="0xfe3ffb83" castsShadows="true" receiveShadows="true" nonRenderable="true" materialIds="1" clipDistance="300" nodeId="1">
             <TransformGroup name="htw65_root" nodeId="2">

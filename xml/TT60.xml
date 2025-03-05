@@ -2,7 +2,7 @@
 <vehicle type="trailer" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../shared/xml/schema/vehicle.xsd">
     <annotation>Copyright (C) GIANTS Software GmbH, All Rights Reserved.</annotation>
     <storeData>
-        <name>            <en>HTW 65</en>
+        <name>            <en>TT60</en>
         </name>
         <specs>
             <combination filterCategory="weights" filterSpec="weight" filterSpecMin="600" filterSpecMax="650"/>
@@ -10,11 +10,11 @@
         <functions>
             <function>$l10n_function_tipper</function>
         </functions>
-        <image>store_htw65.dds</image>
+        <image>store/store_TT60.dds</image>
         <price>99500</price>
         <lifetime>600</lifetime>
         <rotation>0</rotation>
-        <brand>BERGMANN</brand>
+        <brand>Thunderfarming</brand>
         <category>trailers</category>
         <shopTranslationOffset>0 0.164 0</shopTranslationOffset>
         <shopRotationOffset>0.635 0 0</shopRotationOffset>
