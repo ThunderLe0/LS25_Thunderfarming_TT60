@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
-<modDesc descVersion="90">
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="96">
     <author>Leo</author>
     <version>1.0.0.0</version>
     <title>
@@ -10,10 +10,10 @@
     </description>
     <iconFilename>store/store_TT60.dds</iconFilename>
     <storeItems>
-        <storeItem xmlFilename="xml/TT60.xml"/>
+        <storeItem xmlFilename="xml/TT60.xml" />
     </storeItems>
 	<brands>
-        <brand title="Thunderfarming" image="brand/brand_ThF.dds" name="Thunderfarming"/>
+        <brand title="Thunderfarming" image="brand/brand_ThF.dds" name="Thunderfarming" />
     </brands>
-	<multiplayer supported="true"/>
+	<multiplayer supported="true" />
 </modDesc>
